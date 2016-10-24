@@ -1,0 +1,6 @@
+Name : t
+ID : 1407024
+Deptartment : c
+university : k
+Current CGPA : 0.0
+Current GPA : 30.380000000000003
